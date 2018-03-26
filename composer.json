@@ -1,0 +1,11 @@
+{
+    "name": "cshaptx4869/my_engine",
+    "description": "this is my engine",
+    "authors": [
+        {
+            "name": "chensh",
+            "email": "994774638@qq.com"
+        }
+    ],
+    "require": {}
+}
