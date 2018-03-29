@@ -27,7 +27,7 @@ class MyTpl{
         }
         include_once $template_c;
     }
-    // 动态输出
+    // 匹配模版并动态输出变量
     function tpl_replace($content){
         $left = preg_quote($this->left_delimiter,'/');
         $right = preg_quote($this->right_delimiter,'/');
