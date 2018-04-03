@@ -1,5 +1,5 @@
 <?php
-    require_once 'MyTpl.php';
+    require_once 'engine/MyTpl.php';
     $mytpl = new MyTpl();
     // 开启缓存
     $mytpl->caching = true;
