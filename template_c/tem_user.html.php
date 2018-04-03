@@ -6,5 +6,6 @@
 </head>
 <body>
     <?php echo $this->tpl_value["name"]; ?>
+    <?php echo $this->tpl_value["now"]; ?>
 </body>
 </html>
